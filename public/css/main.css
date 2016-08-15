@@ -1,0 +1,28 @@
+button.main-send-vote {
+	width: 35px;
+	height: 35px;
+	display: block;
+	margin-bottom: 5px;
+	margin-left: 50px;
+}
+
+.main-avatar {
+	width: 50px;
+	height: 50px;
+}
+
+.top-user-block {
+	background: #E3FFE5;
+	width: 500px;
+	padding-top: 15px;
+	margin-top: 15px;
+	border-radius: 20px;
+}
+
+#loader {
+	position: fixed;
+	display: none;
+	z-index: 1000;
+	top: 260px;
+	left: 580px;
+}

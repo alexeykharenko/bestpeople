@@ -1,0 +1,46 @@
+pre.comment-text {
+	margin-bottom: 2px;
+	white-space: pre-wrap;
+}
+
+.comment-block {
+	margin-bottom: 10px;
+}
+
+.comment-deleted {
+	opacity: 0.4;
+}
+
+.comment-left {
+	color: grey;
+}
+
+.comment-left, .action-right {
+	float: left;
+	width: 50%;
+}
+
+.action-right {
+	text-align: right;
+}
+
+.after-comment {
+	clear: left;
+	visibility: none;
+}
+
+button.profile-send-vote {
+	width: 35px;
+	height: 35px;
+}
+
+.profile-avatar {
+	width: 50px;
+	height: 50px;
+}
+
+.profile-login {
+	margin-left: 10px;
+	margin-bottom: 0px;
+	display: inline-block;
+}
